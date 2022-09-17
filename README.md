@@ -1,5 +1,4 @@
-# Trivia-de-Jhon-Cusicahua
-Este es mi trabajo del curso 
+
 GREEN = '\033[32m'
 YELLOW = '\033[33m'
 BLUE = '\033[34m'
@@ -13,7 +12,7 @@ nombre = input("Ingresa tu nombre: ")
 import os  # Para limpiar la consola
 import random  # Para dar la sensación de aleatoriedad
 
-# Esto es lo que se conoce como un .tsv, valores separados por tabulaciones y saltos de línea
+
 textoBaseDePreguntas = '''
 Capital de Peru\tLima\tCallao\tArequipa\tBolibar
 \n
